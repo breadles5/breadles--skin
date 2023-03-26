@@ -10,3 +10,5 @@ previews in 80% bg dim
  - new 7k sprites (recolor of 4k in the style of o2jam)
 
 [version 5.2](https://drive.google.com/u/0/uc?id=1-BmZYY77xSAdQgzM9IqaEzwqXuc9Hl7s&export=download)
+![screenshot068](https://user-images.githubusercontent.com/101068519/227756375-15f6b3e6-bfc4-4e9c-87df-f94b25cecc6b.png)
+![screenshot066](https://user-images.githubusercontent.com/101068519/227756376-109e8e96-f739-403c-a30b-8679033b5ae5.png)
