@@ -1,6 +1,6 @@
 # breadles' skins
 [LS] breadles' skins, starting from v5.1 then onward
-
+you can find the old skins folder here: https://drive.google.com/drive/folders/1y3EEeSxe_N6Adc4oJfv-mi10t3bsNTnb
 previews in 80% bg dim
 # 24/3/23
 [version 5.1](https://drive.google.com/u/0/uc?id=1cU4to8dUaxiPiFvEeVi_s0zLG9-5LLVV&export=download)
