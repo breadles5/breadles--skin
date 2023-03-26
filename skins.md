@@ -6,4 +6,4 @@ previews in 80% bg dim
 ![image](https://user-images.githubusercontent.com/101068519/227696085-39d5f752-db43-42bd-9ce1-b09fa550f05e.png)
 
 # 26/3/23
-[version 5.2](https://drive.google.com/u/0/uc?id=1y3EEeSxe_N6Adc4oJfv-mi10t3bsNTnb&export=download)
+[version 5.2](https://drive.google.com/u/0/uc?id=1-BmZYY77xSAdQgzM9IqaEzwqXuc9Hl7s&export=download)
