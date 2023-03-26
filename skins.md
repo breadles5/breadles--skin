@@ -1,7 +1,7 @@
 # breadles' skins
 [LS] breadles' skins, starting from v5.1 then onward
 
-you can find the old skins folder here: https://drive.google.com/drive/folders/1y3EEeSxe_N6Adc4oJfv-mi10t3bsNTnb
+you can find the old skins folder here: https://drive.google.com/drive/folders/1y3EEeSxe_N6Adc4oJfv-mi10t3bsNTnb?usp=sharing
 
 previews in 80% bg dim
 # 24/3/23
