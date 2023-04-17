@@ -12,7 +12,7 @@ previews in 80% bg dim
  - removed lane cover
  - reverted back to circles
  - new hitjudgements, cursor, 4-7k color scheme, new mods icons
- - 
+
 ![screenshot092](https://user-images.githubusercontent.com/101068519/232390954-aad64150-07a8-4a50-8b65-5b4e1fa55570.png)
 ![screenshot093](https://user-images.githubusercontent.com/101068519/232391009-bb548733-d215-424f-a774-9956f4aafe6e.png)
 ![screenshot094](https://user-images.githubusercontent.com/101068519/232391018-d1b4cff7-a728-4736-a9f9-d9c0873dfe14.png)
