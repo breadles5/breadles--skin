@@ -20,6 +20,7 @@ previews in 80% bg dim
 ![screenshot096](https://user-images.githubusercontent.com/101068519/232391066-65729808-8fc3-49c9-929a-09e9da8e1a57.png)
 ![screenshot097](https://user-images.githubusercontent.com/101068519/232391092-433b63b3-2840-4d61-b7cb-b180d0df0033.png)
 ![screenshot098](https://user-images.githubusercontent.com/101068519/232391232-4b07d495-78f3-462c-bd3d-7f19e7e61ac6.png)
+![screenshot099](https://user-images.githubusercontent.com/101068519/232391921-4efaa4ef-b186-407e-8dae-245199167b65.png)
 
 # version 5.x
 
