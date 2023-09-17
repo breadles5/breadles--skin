@@ -6,7 +6,8 @@ you can find the old skins folder [here](https://drive.google.com/drive/folders/
 previews in 80% bg dim
 # current
 
-# [Breadles Skin](https://drive.google.com/u/0/uc?id=1OCt7LIvFQUm91gEsKBsXElMn9gIxZgqC&export=download)
+# [Breadles Skin](https://drive.google.com/u/0/uc?id=1-64UQBwE08h1N0Lm-evpf2bZRAmqQ7zD&export=download)
+# [No Percy](https://drive.google.com/u/0/uc?id=1fGq9ih14BLPLewMzQnt8rq6AQJBmhh60&export=download)
  - happy 2 year osu! anniversary, breadles!
 
 # version 5.x
